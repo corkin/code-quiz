@@ -480,18 +480,6 @@ Ensure the default browser behavior of the `hidden` attribute.
   bottom: -50px;
 }
 
-.right-\[-40px\] {
-  right: -40px;
-}
-
-.right-\[-35px\] {
-  right: -35px;
-}
-
-.right-\[-30px\] {
-  right: -30px;
-}
-
 .right-\[-20px\] {
   right: -20px;
 }
@@ -760,18 +748,6 @@ Ensure the default browser behavior of the `hidden` attribute.
 
 .tracking-\[\.40em\] {
   letter-spacing: .40em;
-}
-
-.tracking-wide {
-  letter-spacing: 0.025em;
-}
-
-.tracking-wider {
-  letter-spacing: 0.05em;
-}
-
-.tracking-normal {
-  letter-spacing: 0em;
 }
 
 .text-grey-30 {
